@@ -1,4 +1,4 @@
-## Hi, I'm Sai 🪶
+## 𐋅𐌉, 𐌉'𐌌 𐌔𐌀𐌉 🪶
 
 🧠 Computer science student at Anurag Univeristy 
 
