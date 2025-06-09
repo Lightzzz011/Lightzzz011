@@ -6,7 +6,7 @@
 🧩 I build sites on projects that help
 
 
-🪻 Download my proejcts and useful resources 
+🪻 Download my proejcts and useful resources !
 
 
 # 💻 Tech Stack:
