@@ -6,6 +6,7 @@
 Hi. I'm the cat.
 He spends hours staring at glowing screens, mumbling about bugs and "deployments."
 Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet yet.
+
 10/10 hooman. Slightly weird. I approve.
 
 - 🔭 I'm currently working on DSA.
