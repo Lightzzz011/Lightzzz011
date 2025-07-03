@@ -9,10 +9,10 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 10/10 hooman. Slightly weird. I approve.
 
-- 🔭 I'm currently working on DSA.
-- 🌱 I'm currently learning New technologies.
+- 🔭 I'm currently working on DSA
+- 🌱 I'm currently learning New technologies
 - 📫 How to reach me: luckyizdone@gmail.com
-- ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.
+- ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that
 
 ## Connect With Me
 <p align="left">
