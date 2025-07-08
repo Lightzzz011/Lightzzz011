@@ -8,7 +8,7 @@
 </p>
 
 ## About Me
-Hi. I'm the cat.
+Hi. I'm the cat
 He spends hours staring at glowing screens.
 Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet yet.
 
