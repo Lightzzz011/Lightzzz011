@@ -2,7 +2,7 @@
 
 <h3 align="center">Developer | Designer </h3>
 
-<!-- 🌟 New GIF Section -->
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB3anRhYmU0Y2F3NHAxanNxMDhqMmN2eTdkaXcyaHc3cDVtdGFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTiJwq5cEY1gsRHJt9/giphy.gif" alt="Cool Developer GIF" width="400" />
 </p>
@@ -14,8 +14,8 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 10/10 hooman. Slightly weird. I approve.
 
-- 🔭 I'm currently working on DSA.
-- 🌱 I'm currently learning New technologies.
+- 🔭 currently working on DSA.
+- 🌱 learning New technologies.
 - 📫 How to reach me: luckyizdone@gmail.com
 - ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.
 
