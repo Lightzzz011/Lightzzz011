@@ -26,6 +26,10 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 <a href="https://saikoluguri27.netlify.app/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" height="30" width="40" />
 </a>
+<a href="https://medium.com/@luckyizdone" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+</a>
+
 
 </p>
 
