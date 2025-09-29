@@ -70,9 +70,6 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 <a href="#" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> 
 </a> 
-<a href="#" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> 
-</a> 
 
 </p>
 
