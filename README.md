@@ -23,9 +23,10 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 <p align="left">
 <a href="https://github.com/Lightzzz011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lightzzz011" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/SaiKoluguri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SaiKoluguri" height="30" width="40" /></a>
-  <a href="https://saikoluguri27.netlify.app/" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="40" />
+<a href="https://saikoluguri27.netlify.app/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" height="30" width="40" />
 </a>
+
 </p>
 
 ## Languages and Tools
