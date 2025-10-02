@@ -2,25 +2,23 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate GitHub stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: Lightzzz011
-          count_private: true
-          include_all_commits: true
-          theme: tokyonight
-      - name: Commit stats image
+      - name: Generate GitHub Stats Image
         run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your_email@example.com"
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          "https://github-readme-stats.vercel.app/api?username=Lightzzz011&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" \
+          -o github_stats.png
+      - name: Commit image
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add github_stats.png
-          git commit -m "Update GitHub stats"
+          git commit -m "Update GitHub stats image"
           git push
