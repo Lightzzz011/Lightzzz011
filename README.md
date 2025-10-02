@@ -75,7 +75,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 ## GitHub Stats
 <p align="center">
-<img src="./github_stats.png" alt="Lightzzz011's GitHub stats" />
+
 </p>
 
 
