@@ -75,7 +75,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 ## GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lightzzz011&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Lightzzz011's GitHub stats" />
+<img src="./github_stats.png" alt="Lightzzz011's GitHub stats" />
 </p>
 
 
