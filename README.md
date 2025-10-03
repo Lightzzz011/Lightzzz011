@@ -33,7 +33,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
   <a href="https://linkedin.com/in/SaiKoluguri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://medium.com/SaiKoluguri" target="_blank">
+  <a href="https://medium.com/@luckyizdone" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium">
   </a>
   <a href="https://twitch.tv/saii011" target="_blank">
