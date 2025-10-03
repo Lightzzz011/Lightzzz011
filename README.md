@@ -55,7 +55,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 </a> 
 <a href="#" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-</a> 
+</a>  
 <a href="#" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
 </a> 
