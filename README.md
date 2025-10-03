@@ -21,6 +21,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Socials</h2>
 <p align="center">
+  <br>
   <a href="https://bsky.app/profile/saikolugurii.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky">
   </a>
@@ -43,7 +44,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Tech Stack</h2>
 <p align="center">
-
+<br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -103,6 +104,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 </p>
 
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">GitHub Trophies</h2>
+<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lightzzz011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
