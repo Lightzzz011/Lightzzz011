@@ -104,7 +104,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lightzzz011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
-
+<br>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011" alt="Visitor Count" />
 </p>
