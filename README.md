@@ -44,7 +44,6 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Tech Stack</h2>
 <p align="center">
-<br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -102,9 +101,9 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightzzz011&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
-
-<h2 align="center" style="font-family: 'Courier New', Courier, monospace;">GitHub Trophies</h2>
 <br>
+<h2 align="center" style="font-family: 'Courier New', Courier, monospace;">GitHub Trophies</h2>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lightzzz011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
