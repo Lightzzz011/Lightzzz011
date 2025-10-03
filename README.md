@@ -1,21 +1,18 @@
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace;">
-  𐋅𐌉, 𐌉'𐌌 𐌔𐌀𐌉 🪶
-</h1>
+<h1 align="center">𐋅𐌉, 𐌉'𐌌 𐌔𐌀𐌉 🪶</h1>
 
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">
-  Developer | Designer
-</h3>
+<h3 align="center">Developer | Designer </h3>
 
+<!-- 🌟 New GIF Section -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB3anRhYmU0Y2F3NHAxanNxMDhqMmN2eTdkaXcyaHc3cDVtdGFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTiJwq5cEY1gsRHJt9/giphy.gif" alt="Cool Developer GIF" width="400" />
 </p>
+ 
+## About Me
+Hi. I'm the cat.
+He spends hours staring at glowing screens.
+Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet yet.
 
-<h2 align="center"style="font-family: 'Courier New', Courier, monospace;">About Me</h2>
-<p >
-Hi. I'm the cat.<br/>
-He spends hours staring at glowing screens.<br/>
-Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet yet.<br/><br/>
-10/10 hooman. Slightly weird. I approve.<br/><br/>
+10/10 hooman. Slightly weird. I approve.
 - 🔭 I'm currently working on DSA.<br/>
 - 🌱 I'm currently learning new technologies.<br/>
 - 📫 How to reach me: luckyizdone@gmail.com<br/>
