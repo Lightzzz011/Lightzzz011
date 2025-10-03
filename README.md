@@ -21,8 +21,9 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 <br>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011&style=flat-square&type=unique&color=brightgreen&icon=eye" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Visitors-1234-brightgreen?style=for-the-badge&logo=eye" alt="Visitor Count" width="300" height="80" />
 </p>
+
 
 <br>
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Socials</h2>
