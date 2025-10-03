@@ -23,7 +23,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 - ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.
 
 <h2 style="font-family: 'Courier New', Courier, monospace;"> Socials</h2>
-<p align="center">
+<p >
   <a href="https://bsky.app/profile/saikolugurii.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky">
   </a>
@@ -51,18 +51,18 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 
 <h2 style="font-family: 'Courier New', Courier, monospace;">GitHub Stats</h2>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Lightzzz011&theme=date_night&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Lightzzz011&theme=date_night&hide_border=false" alt="Streak Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightzzz011&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 <h2 style="font-family: 'Courier New', Courier, monospace;"> GitHub Trophies</h2>
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=Lightzzz011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
-<p align="center">
+<p>
   <a href="https://visitcount.itsvg.in/api?id=Lightzzz011" target="_blank">
     <img src="https://visitcount.itsvg.in/api?id=Lightzzz011&icon=0&color=8" alt="Visitor Count"/>
   </a>
