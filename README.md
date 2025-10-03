@@ -106,7 +106,6 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Lightzzz011" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=Lightzzz011&icon=0&color=8" alt="Visitor Count"/>
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011" alt="Visitor Count" />
 </p>
+
