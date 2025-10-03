@@ -1,13 +1,13 @@
 <h1 align="center">𐋅𐌉, 𐌉'𐌌 𐌔𐌀𐌉 🪶</h1>
 
-<h3 align="center">Developer | Designer </h3>
+<h2 align="center">Developer | Designer </h3>
 
 <!-- 🌟 New GIF Section -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB3anRhYmU0Y2F3NHAxanNxMDhqMmN2eTdkaXcyaHc3cDVtdGFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTiJwq5cEY1gsRHJt9/giphy.gif" alt="Cool Developer GIF" width="400" />
 </p>
  
-## About Me
+<h2 align="center" style="font-family: 'Courier New', Courier, monospace;">About Me</h2>
 Hi. I'm the cat.
 He spends hours staring at glowing screens.
 Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet yet.
@@ -19,6 +19,11 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 - ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.
 </p>
 
+<br>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011" alt="Visitor Count" />
+</p>
+<br>
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Socials</h2>
 <p align="center">
   <br>
@@ -105,8 +110,5 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lightzzz011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
-<br>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011" alt="Visitor Count" />
-</p>
+
 
