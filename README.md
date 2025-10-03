@@ -30,10 +30,10 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
   <a href="https://instagram.com/saikolugurii" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/Sai-Koluguri" target="_blank">
+  <a href="https://linkedin.com/in/SaiKoluguri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://medium.com/@Sai-Koluguri" target="_blank">
+  <a href="https://medium.com/SaiKoluguri" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium">
   </a>
   <a href="https://twitch.tv/saii011" target="_blank">
@@ -71,14 +71,14 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
 </p>
 
-<h2 style="font-family: 'Courier New', Courier, monospace;">📊 GitHub Stats</h2>
+<h2 style="font-family: 'Courier New', Courier, monospace;">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lightzzz011&theme=date_night&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Lightzzz011&theme=date_night&hide_border=false" alt="Streak Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightzzz011&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
-<h2 style="font-family: 'Courier New', Courier, monospace;">🏆 GitHub Trophies</h2>
+<h2 style="font-family: 'Courier New', Courier, monospace;"> GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lightzzz011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
@@ -88,5 +88,3 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
     <img src="https://visitcount.itsvg.in/api?id=Lightzzz011&icon=0&color=8" alt="Visitor Count"/>
   </a>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
