@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB3anRhYmU0Y2F3NHAxanNxMDhqMmN2eTdkaXcyaHc3cDVtdGFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTiJwq5cEY1gsRHJt9/giphy.gif" alt="Cool Developer GIF" width="400" />
 </p>
-
+ 
 ## About Me
 Hi. I'm the cat.
 He spends hours staring at glowing screens.
