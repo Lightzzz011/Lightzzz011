@@ -19,14 +19,6 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 - ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.
 </p>
 
-<br>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011&style=flat-square&type=unique&color=brightgreen&icon=eye" alt="Visitor Count" />
-</p>
-
-
-
-<br>
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Socials</h2>
 <p align="center">
   <br>
@@ -114,4 +106,11 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
   <img src="https://github-profile-trophy.vercel.app/?username=Lightzzz011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
+<br>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011&style=flat-square&type=unique&color=brightgreen&icon=eye" alt="Visitor Count" />
+</p>
 
+
+
+<br>
