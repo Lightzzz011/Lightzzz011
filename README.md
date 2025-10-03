@@ -14,7 +14,6 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 
 10/10 hooman. Slightly weird. I approve.
 
-# 💫 About Me:
 - 🔭 I'm currently working on DSA.<br>- 🌱 I'm currently learning New technologies.<br>- 📫 How to reach me: luckyizdone@gmail.com<br>- ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.
 
 
