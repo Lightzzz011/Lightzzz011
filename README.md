@@ -16,10 +16,12 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 - 🔭 I'm currently working on DSA.<br/>
 - 🌱 I'm currently learning new technologies.<br/>
 - 📫 How to reach me: luckyizdone@gmail.com<br/>
-- ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.    <p align="center">
+- ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.    <br>
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011&style=for-the-badge&type=page" alt="Visitor Count" />
 </p>
 </p>
+<br>
 
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Socials</h2>
 <p align="center">
