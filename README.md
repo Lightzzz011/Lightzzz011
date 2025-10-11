@@ -20,10 +20,9 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011&style=for-the-badge&type=page" alt="Visitor Count" />
 </p>
-<br>
 
 </p>
-<br>
+
 
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Socials</h2>
 <p align="center">
