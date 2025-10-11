@@ -16,7 +16,9 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
 - 🔭 I'm currently working on DSA.<br/>
 - 🌱 I'm currently learning new technologies.<br/>
 - 📫 How to reach me: luckyizdone@gmail.com<br/>
-- ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.
+- ⚡ Fun fact: (from the cat): He thinks he’s in control. I let him believe that.    <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011&style=for-the-badge&type=page" alt="Visitor Count" />
+</p>
 </p>
 
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Socials</h2>
@@ -106,11 +108,4 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
   <img src="https://github-profile-trophy.vercel.app/?username=Lightzzz011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
-<br>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightzzz011.Lightzzz011&style=for-the-badge&type=page" alt="Visitor Count" />
-</p>
 
-
-
-<br>
