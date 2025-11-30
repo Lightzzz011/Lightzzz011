@@ -105,6 +105,8 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightzzz011&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
+<br>
+
 
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">GitHub Trophies</h2>
 
