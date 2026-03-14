@@ -47,7 +47,7 @@ Still, he feeds me, codes cool stuff, and somehow hasn't deleted the internet ye
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
 </p>
-
+why are you stalking my github lol
 <h2 align="center" style="font-family: 'Courier New', Courier, monospace;">Tech Stack</h2>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
